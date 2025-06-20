@@ -91,13 +91,14 @@ function App() {
           transition={{ delay: 2.5, duration: 0.8 }}
         >
           <h2>Let’s talk now...</h2>
-          <a
-  href="https://wa.me/917981738176?text=Hi%20Yamini%2C%20let's%20video%20call%20now%20❤️"
+    <a
+  href="https://wa.me/917981738176?text=Hi%20Anuj%2C%20your%20sorry%20is%20accepted.%20Let's%20video%20call%20now%20%E2%9D%A4%EF%B8%8F"
   target="_blank"
   rel="noopener noreferrer"
 >
   <button className="cta-button">Video Call Me on WhatsApp 😘</button>
 </a>
+
 
         </motion.div>
       </div>
