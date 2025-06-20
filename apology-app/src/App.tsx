@@ -16,7 +16,8 @@ function App() {
   const [index, setIndex] = useState(0);
   const [typedText, setTypedText] = useState("");
   const { width, height } = useWindowSize();
-  const [showConfetti, setShowConfetti] = useState(true);
+  const [showConfetti] = useState(false); // remove unused setter
+
 
   const apology =
     "Yamini, I slept without our video call and I regret it. Please forgive me. Let me make it up to you… - Anuj ❤️";
